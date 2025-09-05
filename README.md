@@ -1,2 +1,2 @@
-# Registered domain template
-Use this if you want in the future make a website and you want to anybody use that domain, have it and use this website...
+# ierikMC website
+The official website from the minecraft server called ierikMC
